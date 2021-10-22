@@ -1,0 +1,1 @@
+If an argument is passed to break, break will return the return value of that argument. This effect is bubbled up the to the return value of the while loop. If no argument is passed to break, then break will just return nil.

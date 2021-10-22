@@ -1,0 +1,1 @@
+You can right justify a String by using the #rjust method, passing an integer to specify the total line length.

@@ -1,0 +1,1 @@
+In the new Ruby docs, I find searching to generally be an easier solution for finding information than trying to manually index it.

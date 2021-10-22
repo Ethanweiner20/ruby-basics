@@ -1,0 +1,2 @@
+You can use the symbol literal notation:
+:Ethan

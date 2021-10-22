@@ -1,0 +1,1 @@
+A while loop returns nil, unless a break statement is provided with a value.
