@@ -1,0 +1,3 @@
+I would set a new variable equal to the return value of the upcase method being applied to the string "xyz":
+
+uppercase = "xyz".upcase

@@ -1,0 +1,3 @@
+Since "insert" accepts an index, you would first need to determine the index of the element 'd'. In this case, the index is 3. Per the method description, #index will insert what we pass into it directly before the element at index 3, which is 'd'. We can also pass multiple arguments to insert because the splat (*) operator is used.
+
+a.insert(3, 5, 6, 7)

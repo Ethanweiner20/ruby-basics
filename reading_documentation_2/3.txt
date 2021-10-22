@@ -1,0 +1,5 @@
+The first put statement will print ["abc", "def", "ghi,jkl", "mno", "pqr,stu", "vwx", "yz"] (if pattern is nil, the string is split on " ")
+The second put statement will print ["abc def ghi", "jkl mno pqr", "stu vwx yz"] (the string will split along the pattern ",")
+The third put statement will print ["abc def ghi", "jkl mno pqr,stu vwx yz"] (only 2 split substring will be printed)
+
+.inspect simply returns a printable version of the array.
